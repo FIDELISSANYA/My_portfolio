@@ -9,7 +9,7 @@ FIDELIS SANYA
  + [Technology Used](#technology-used)
  + [Reference](#reference)
  + [Licence](#licence)
- + [Authors Info](#author-Info)=
+ + [Authors Info](#author-Info)
  
  ## Description
  <p>This is  a website that illustarates my portfolio/resume.It contains all my background information,a sample projects that I have worked on and the experience gained.</p>
