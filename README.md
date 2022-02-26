@@ -63,6 +63,7 @@ FIDELIS SANYA
  ## Authors Info
  
  Slack Profile - [Fidelis Sanya](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
+ Facebook profile - @fidelissanya
   
  [Go Back to the top](#portfolio)
 @here Sample README

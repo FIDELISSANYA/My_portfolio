@@ -26,3 +26,7 @@ h1 {
     font-style: oblique;
     text-align: center;
   }
+  #located{
+    color: darkgreen;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
