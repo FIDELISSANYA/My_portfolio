@@ -62,9 +62,7 @@ FIDELIS SANYA
  
  ## Authors Info
  
- Slack Profile - [Albert Byrone](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
- 
- Linked - [Albert Byrone](https://www.linkedin.com/in/albert-byrone-664811144/)
- 
+ Slack Profile - [Fidelis Sanya](https://app.slack.com/client/T077KKCG6/GLRQR61NW/user_profile/UKXCHMCNP?cdn_fallback=1)
+  
  [Go Back to the top](#portfolio)
 @here Sample README
