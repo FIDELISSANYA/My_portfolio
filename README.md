@@ -17,7 +17,6 @@ FIDELIS SANYA
  ## Installation
  
  ### Requirements
- 
  *  Internet connectivity
  
  * Computer, an Ipad, a phone or a tablet
@@ -26,9 +25,9 @@ FIDELIS SANYA
  
  [Go Back to the top](#portfolio)
  ## Technology Used
- * HTNL - which was used to build the structure of the pages.
+ * HTML- was responsible for building the page structures
  
- * CSS - which was used to style the pages incuding the left aside navigation bar
+ * CSS - which was used to style the pages
  
  ## Reference
  * Materialize CSS
