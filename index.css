@@ -11,7 +11,6 @@ h1 {
   p {
     font-family: sans-serif;
     font-size: medium;
-    background-color: aqua;
   }
   ol{
     list-style: georgian;
@@ -44,6 +43,5 @@ h1 {
   }
   .sidebar{
     background-color: black;
-    width: 20px;
-    float: right;
+    width: 2px;
   }
