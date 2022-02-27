@@ -11,6 +11,7 @@ h1 {
   p {
     font-family: sans-serif;
     font-size: medium;
+    background-color: aqua;
   }
   ol{
     list-style: georgian;
@@ -37,4 +38,12 @@ h1 {
   .history{
     font-size: 40px;
     color: black;
+  }
+  img{
+    float: inline-end;
+  }
+  .sidebar{
+    background-color: black;
+    width: 20px;
+    float: right;
   }
