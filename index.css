@@ -45,3 +45,12 @@ h1 {
     background-color: black;
     width: 2px;
   }
+  .test-box {
+    border-left: 2px solid red;
+    border-right: 4px gray;
+    border-top: 6px solid orange;
+    border-bottom: 8px solid black;
+    margin: 16px;
+    padding: 4px;
+  }
+    
